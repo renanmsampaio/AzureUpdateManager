@@ -26,7 +26,7 @@
 - Ainda necessário dar reboot para patchs que não estao incluídos no hotpatching;
 
 ## 6 - Virtual Machine
-- AO criar uma VM, idealmente, configurar a opçãode update na guia management como "Manual";
+- Ao criar uma VM, idealmente, configurar a opçãode update na guia management como "Manual";
 
 ## 7 - Azure Resource Graph
 - Possivel criar queries para gerar dashboards personalizadas;

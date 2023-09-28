@@ -33,3 +33,14 @@
 
 ## 8 - Comunicação com a internet
 - VMs precisam ter liberação para falar com o Windows Update;
+  - *.download.windowsupdate.com
+  - *.dl.delivery.mp.microsoft.com
+  - *.delivery.mp.microsoft.com
+  - *.prod.do.dsp.mp.microsoft.com
+  - emdl.ws.microsoft.com
+  - *.dl.delivery.mp.microsoft.com
+  - *.windowsupdate.com
+  - *.delivery.mp.microsoft.com
+  - *.update.microsoft.com
+  - tsfe.trafficshaping.dsp.mp.microsoft.com
+  - Port 1688

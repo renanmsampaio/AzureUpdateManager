@@ -1,6 +1,7 @@
-# AzureUpdateManager
+# Azure Update Manager
+O Gerenciador de Atualizações do Azure é um serviço unificado para ajudar a gerenciar e controlar as atualizações de todos os seus computadores. Você pode monitorar a conformidade de atualização do Windows e do Linux em suas implantações no Azure, no local e em outras plataformas de nuvem em um único painel. Além disso, você pode usar o Gerenciador de Atualizações para fazer atualizações em tempo real ou agendá-las em uma janela de manutenção definida.
 
-
+https://learn.microsoft.com/pt-br/azure/update-center/overview?tabs=azure-vms
 
 ## 1 - Automatic Onboaring
 - Ao se criar um novo servidor ele será exibido no painel do Update Manager;

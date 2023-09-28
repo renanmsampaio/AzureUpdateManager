@@ -31,5 +31,5 @@
 ## 7 - Azure Resource Graph
 - Possivel criar queries para gerar dashboards personalizadas;
 
-## 8 - Comunicação com internet
+## 8 - Comunicação com a internet
 - VMs precisam ter liberação para falar com o Windows Update;
